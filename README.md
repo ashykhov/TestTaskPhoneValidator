@@ -14,7 +14,7 @@ Phone number may contain plus sign in the beginning, spaces, curly braces (if th
  be closing), dashes, eg:
 * 37061234567
 * +37061234567
-* +(370)61234567
+* +370(6)1234567
 * +370 612 34 567
 * +370-612-34-567
 
@@ -22,6 +22,8 @@ Currently supported counties:
 * Lithuania (LT ISO country code) (370)
 * Latvia (LV ISO country code) (371)
 * Estonia (EE ISO country code) (372)
+
+No other symbols except mentioned ones are expected to be passed (e.g. no letters, not #±~, etc), no null values are passed, no empty strings.
 
 ### Lithuania
 
