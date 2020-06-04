@@ -6,7 +6,7 @@ The validator returns valid numbers grouped by countries and invalid as a separa
 
 ## Restrictions
 
-No regular expressions or third party libraries are allowed except test libraries for assertions if standard junit 4.x in not enough.
+No regular expressions except String.replaceAll or third party libraries are allowed except test libraries for assertions if standard junit 4.x in not enough.
 
 ## Current behaviour
 
