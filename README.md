@@ -37,7 +37,7 @@ Mobile phone number starts with 5 and total has 7 or 8 digits excluding phone ca
 
 ## To be done
 
-Add support for Belgium (phone calling code is `32`). Mobile phone numbers have 9 digits and start with `456`, `47`, `48` or `49`.
+Add support for Belgium (phone calling code is `32`, country ISO code is `BE`). Mobile phone numbers have 9 digits and start with `456`, `47`, `48` or `49`.
 
 For example `32456123456` and `+32456123456` is considered to be valid number.
 
