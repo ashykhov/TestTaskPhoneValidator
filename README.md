@@ -10,7 +10,7 @@ No regular expressions except String.replaceAll or third party libraries are all
 
 ## Current behaviour
 
-Phone number may contain plus sign in the beginning, spaces, curly braces (if there is opening brace there should
+Phone number may contain plus sign in the beginning, spaces, braces (if there is opening brace there should
  be closing), dashes, eg:
 * 37061234567
 * +37061234567
